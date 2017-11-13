@@ -1,1 +1,1 @@
-**Just a Color game.**
+**Just a Color game I did to learn basic javascript (udemy course by Colt Steele).**
